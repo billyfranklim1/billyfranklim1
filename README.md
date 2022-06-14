@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @billyfranklim1
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning mobile development with flutter and elasticsearch
+- 🌱 I’m currently learning react native, react js and node
 - 📫 How to reach me ...
 
 <!---
