@@ -5,7 +5,6 @@
 #### 🚀 Quick Facts:
 
 - 🌎 I'm from Maranhão, Brasil
-- 🎂 Born on May 6, 2000 (23 years old)
 - 💼 Full-stack developer with expertise in back-end, front-end, and mobile development
 - 🎯 Current Goals: Improve productivity & tackle complex tasks more efficiently
 - 🙏 Philosophy: Christian
@@ -16,9 +15,9 @@
 
 #### 🛠️ Tech Stack:
 
-- **Front-end:** Vue.js React.js
+- **Front-end:** Vue.js and React.js
 - **Mobile:** React Native
-- **Back-end:** Php Node.js
+- **Back-end:** Php and Node.js
 
 ---
 
