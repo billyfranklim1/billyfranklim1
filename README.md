@@ -7,7 +7,6 @@
 - 🌎 I'm from Maranhão, Brasil
 - 💼 Full-stack developer with expertise in back-end, front-end, and mobile development
 - 🎯 Current Goals: Improve productivity & tackle complex tasks more efficiently
-- 🙏 Philosophy: Christian
 - 🗺️ Love to travel
 - 🌐 Languages: Fluent in Portuguese, learning English
 
